@@ -1,4 +1,4 @@
-Django==2.2.2
+Django==2.2.24
 autopep8==1.4.3
 coverage==4.5.3
 django-cors-headers==2.5.2
