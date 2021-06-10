@@ -1,4 +1,4 @@
-Django==2.2.2
+Django==2.2.24
 django-cors-headers==2.5.2
 django-graphql-jwt==0.2.1
 emitter-io==2.0.2
